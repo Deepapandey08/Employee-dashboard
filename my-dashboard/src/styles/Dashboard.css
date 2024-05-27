@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    .dashboard-body {
+      flex-direction: column;
+    }
+  
+    .sidebar {
+      width: 100%;
+    }
+  }
+  
